@@ -1,0 +1,6 @@
+numpy==1.21
+matplotlib
+ase
+seaborn
+dscribe
+tqdm==4.62.3
